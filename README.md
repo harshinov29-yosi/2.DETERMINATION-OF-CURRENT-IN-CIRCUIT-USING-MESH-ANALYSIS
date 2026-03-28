@@ -23,15 +23,15 @@ Reference No:25018441
 
 **CIRCUIT DIAGRAM:**
 
-![WhatsApp Image 2025-12-19 at 23 33 44_8c558a71](https://github.com/user-attachments/assets/36484833-7aa4-4def-9c65-535a68a8c184)
+
 
 **TABULAR COLUMN**
 
-![WhatsApp Image 2025-12-19 at 23 35 39_4390407f](https://github.com/user-attachments/assets/1fee28f1-f6f3-4217-8439-6f9024cc55a1)
+
 
 **CALCULATIONS**
 
-![WhatsApp Image 2025-12-19 at 23 37 37_6e31cf69](https://github.com/user-attachments/assets/30c0a2d7-d92b-4d03-8483-cdb26a6d3bab)
+
 
 **PROCEDURE:** 
 
@@ -49,7 +49,6 @@ Reference No:25018441
 
 **MARKS SPLIT UP**
 
-![WhatsApp Image 2025-12-19 at 23 40 00_e56ab8aa](https://github.com/user-attachments/assets/46d81dc6-65b3-4645-a52d-7b3abbed12a9)
 
 
    **RESULT:**
